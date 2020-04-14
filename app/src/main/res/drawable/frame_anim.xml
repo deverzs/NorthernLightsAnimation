@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Specify duration, units in miliseconds 1 second == 1000 seconds  -->
+    <!-- show each light one at a time and do same  -->
+    <!-- Frame Animation  -->
+    <item android:drawable="@drawable/lights1" android:duration="200"/>
+    <item android:drawable="@drawable/lights2" android:duration="200"/>
+    <item android:drawable="@drawable/lights3" android:duration="200"/>
+    <item android:drawable="@drawable/lights4" android:duration="200"/>
+
+
+</animation-list>
